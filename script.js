@@ -8,6 +8,7 @@
 
    Filename: script.js
 -->
+//Step3
 "use strict";
 var delivInfo = {};
 var delivSummary = document.getElementById("deliverTo");
